@@ -1,0 +1,26 @@
+.home-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  
+  .link-div{
+    width:800px;
+  }
+  
+  .link{
+    color:grey;
+    text-decoration: none;
+    display:flex;
+    flex-direction: column;
+  }
+  
+  .link > h1{
+    margin:0;
+  }
+  
+  .link > p{
+    margin-top:0;
+    margin-bottom: 35px;
+  }
